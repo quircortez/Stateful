@@ -1,4 +1,5 @@
 # Stateful Widget 
+***
 ## Datos Escolares
 Nombre: Eleazar Cortez Quirino
 Docente: M.T.I. Marco Antonio Ramirez Hernàndez
@@ -23,3 +24,9 @@ Para poder lograr la implementacion de Staful widgets se realizo una investigaci
 ![Resultado 2](assets/Muestra2.png)
 ***
 ![Resultado 3](assets/Muestra3.png)
+***
+## Elaborado por:
+ING. Eleazar Cortez Quirino
+***
+<img src="assets/logo_UTXJ.jpg" width="90">
+<img src="assets/logo_TIC.jpg" width="90" align= "right">
