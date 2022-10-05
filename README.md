@@ -27,5 +27,5 @@ Para poder lograr la implementacion de Staful widgets se realizo una investigaci
 ***
 ## Elaborado por:
 ING. Eleazar Cortez Quirino
-<img src="assets/logo_UTXJ.jpg" width="100">
-<img src="assets/logo_TIC.jpg" width="100" align= "right">
+
+<img src="assets/logo_UTXJ.jpg" width="100"><img src="assets/logo_TIC.jpg" width="100" align= "right">
